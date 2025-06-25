@@ -12,8 +12,8 @@ Subtitle: About People
   align-items: center;             /* vertical centering if your images differ in height */
   flex-wrap: wrap;                 /* (optional) stack on narrow screens */
 ">
-  <img src="assets/img/404-southpark.jpg" alt="Person 1" style="max-width: 23%; height: auto;"/>
-  <img src="/assets/img/avatar-icon.jpg" alt="Person 2" style="max-width: 23%; height: auto;"/>
+  <img src="/assets/img/thumb.png" alt="Person 1" style="max-width: 23%; height: auto;"/>
+  <img src="/assets/img/avatar-icon.png" alt="Person 2" style="max-width: 23%; height: auto;"/>
   <img src="/assets/img/path.jpg" alt="Person 3" style="max-width: 23%; height: auto;"/>
   <img src="/assets/img/404-southpark.jpg" alt="Person 4" style="max-width: 23%; height: auto;"/>
 </div>
