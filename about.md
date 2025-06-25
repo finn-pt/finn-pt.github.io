@@ -4,7 +4,7 @@ Title: About
 Subtitle: About People
 ---
 
-## Header
+## About
 
 <div style="
   display: flex;
