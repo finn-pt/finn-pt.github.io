@@ -1,6 +1,7 @@
 ---
 layout: page
 Title: About
+Subtitle: About People
 ---
 
 ## Header
@@ -12,18 +13,18 @@ Title: About
 ">
   <div style="flex: 1 1 0; min-width: 0;">
     <!-- Column 1 content -->
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.</p>
+    <p>About the first person.</p>
   </div>
   <div style="flex: 1 1 0; min-width: 0;">
     <!-- Column 2 content -->
-    <p>Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+    <p>About the second person.</p>
   </div>
   <div style="flex: 1 1 0; min-width: 0;">
     <!-- Column 3 content -->
-    <p>Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
+    <p>About the third person.</p>
   </div>
   <div style="flex: 1 1 0; min-width: 0;">
     <!-- Column 4 content -->
-    <p>Praesent mauris. Fusce nec tellus sed augue semper porta.</p>
+    <p>About the fourth person.</p>
   </div>
 </div>
