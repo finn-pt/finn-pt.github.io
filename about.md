@@ -2,11 +2,10 @@
 layout: page
 Title: About
 Subtitle: About People
-page:
-  css:
-    - /assets/css/custom-title.css
+css:
+  - /assets/css/custom-title.css
 ---
-text
+update
 ## About
 
 <div style="
