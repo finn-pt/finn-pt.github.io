@@ -2,6 +2,9 @@
 layout: page
 Title: About
 Subtitle: About People
+page:
+  css:
+    - /assets/css/custom-title.css
 ---
 
 ## About
